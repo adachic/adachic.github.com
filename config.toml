@@ -1,0 +1,5 @@
+baseURL = "http://adachic.github.io/"
+languageCode = "en-us"
+title = "東のレガリア"
+theme = "ananke"
+canonifyurls = true
