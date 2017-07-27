@@ -1,0 +1,29 @@
+---
+categories: null
+comments: true
+date: 2012-08-22T00:00:00Z
+title: EM,messagePack,GCDAsyncSocket
+url: /2012/08/22/em/
+---
+
+下の3つの組み合わせがかなり強力。
+ASIHTTPRequestとか、JSONとか、いちいち使わなくていいんですね。楽。
+
+# EM
+EventMachine。
+Rubyのライブラリで非同期I/O。
+EM:channelのsubscribeを書くことで、channnelへのpush時に、コールバックが動作する。
+あるクライアントから受信したデータをブロードキャストすることに向いている。
+
+http://eventmachine.rubyforge.org/EventMachine.html
+
+# messagePack
+シリアライズ用ライブラリ。JSONの代替として有効というか、JSONより効率もいいし楽。多くの言語に対応している。
+
+# GCDAsyncSocket
+CFStreamのラッパー、お手軽にTCP,UDP通信できる。デリゲートで送受信を書く。
+socketをシングルトンにして持ち回すのがいいんじゃないだろうか。
+
+https://github.com/robbiehanson/CocoaAsyncSocket/blob/master/GCD/GCDAsyncSocket.m
+ソースは普通にでかい。仕組み理解には、気合いいる。
+中身のNSStreamがシングルトンだそうで、結局謎。わりと普通になじめた感ある。

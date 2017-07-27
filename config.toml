@@ -1,5 +1,10 @@
-baseURL = "http://adachic.github.io/"
-languageCode = "en-us"
+baseURL = "https://adachic.github.io/"
+languageCode = "ja"
 title = "東のレガリア"
-theme = "ananke"
+theme = "vienna"
 canonifyurls = true
+[params]
+  Subtitle = "必要なことをやっていく"
+  AuthorName = "Akinori ADACHI"
+  GitHubUser = "adachic"
+  SidebarRecentLimit = 5
