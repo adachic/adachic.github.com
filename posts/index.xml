@@ -1,23 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 東のレガリア</title>
+      <title>Posts on 東のレガリア </title>
+      <generator uri="https://gohugo.io">Hugo</generator>
     <link>http://adachic.github.io/posts/</link>
-    <description>Recent content in Posts on 東のレガリア</description>
-    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 26 Jul 2017 18:43:46 +0900</lastBuildDate>
     
-	<atom:link href="http://adachic.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    <updated>Wed, 26 Jul 2017 18:43:46 JST</updated>
     
     <item>
       <title>My First Post</title>
       <link>http://adachic.github.io/posts/my-first-post/</link>
-      <pubDate>Wed, 26 Jul 2017 18:43:46 +0900</pubDate>
+      <pubDate>Wed, 26 Jul 2017 18:43:46 JST</pubDate>
       
       <guid>http://adachic.github.io/posts/my-first-post/</guid>
-      <description>Test</description>
+      <description>&lt;p&gt;Test&lt;/p&gt;
+</description>
     </item>
     
   </channel>
