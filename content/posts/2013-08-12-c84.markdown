@@ -8,11 +8,9 @@ url: /2013/08/12/c84/
 
 コミックマーケット三日目、東へ20b。
 
-![alt text](../../../../images/DSC_0478.jpg)
-
 <!--more-->
 
-* 一番右が新刊。30ページ、300円。iOS Native開発の書。
+* 新刊。30ページ、300円。iOS Native開発の書。
 
     * サクッと読める！はじめてのObjective-C。
 
@@ -20,13 +18,13 @@ url: /2013/08/12/c84/
 
     * Chocolately、バージョン管理 with Windows。
 
-* 真ん中が既刊。68ページ、500円。Android Native開発の書。
+* 既刊。68ページ、500円。Android Native開発の書。
 
     * DQ10、レベル上げbot開発。
 
     * Arduino、Android、ADK、OpenCVを使った方法です。
      
-* 左が既刊(2刷目)。38ページ、200円。Android Native開発の書。
+* 既刊(2刷目)。38ページ、200円。Android Native開発の書。
 
     * Android Native開発の書
 
