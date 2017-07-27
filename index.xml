@@ -1,32 +1,114 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-      <title>東のレガリア on 東のレガリア </title>
-      <generator uri="https://gohugo.io">Hugo</generator>
+    <title>東のレガリア</title>
     <link>https://adachic.github.io/</link>
-    <language>jp</language>
+    <description>Recent content on 東のレガリア</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Sun, 16 Feb 2014 00:00:00 +0000</lastBuildDate>
     
+	<atom:link href="https://adachic.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    <updated>Thu, 27 Jul 2017 16:46:57 JST</updated>
     
     <item>
-      <title>My First Post2</title>
-      <link>https://adachic.github.io/posts/my-first-post2/</link>
-      <pubDate>Thu, 27 Jul 2017 16:46:57 JST</pubDate>
+      <title>ある夏の日</title>
+      <link>https://adachic.github.io/2014/02/16/aruxia-falseri/</link>
+      <pubDate>Sun, 16 Feb 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://adachic.github.io/posts/my-first-post2/</guid>
-      <description>&lt;p&gt;Testes&lt;/p&gt;
-</description>
+      <guid>https://adachic.github.io/2014/02/16/aruxia-falseri/</guid>
+      <description>ある夏の日、山城さんが隣の席に引っ越してきた。騒がしかったので覚えている。 あっという間に、山城さんの私物の書籍とか箱とか本棚とかぬいぐるみがあたり一帯を占拠していて非常に狭くなった。 山城さんは体格が非常に大きく、さらにその後ろに座っている加藤さんの体格も同じくらい大きいので、もはや、私の左側は簡単に通行できなくなった。 山城さんの席の机は、一見、雑然としているが、ミクのフィギュアがおいてあって、座ったらパンチラがちょうど見える角度になっていた。そこだけ計算されたかのようだった。
+数ヶ月して、彼とともにやってきたプロジェクトがポシャったときに、 その引導を我々メンバに告げる会があり、部屋を輪になって囲むかたちになっていたのだが、その時に私の対面にいたのも山城さんだった。 私はプロジェクトがポシャったことがとても悔しく、やるせなかった。 だが、たまたま目にはいった山城さんはとても笑顔だった。山城さんは3連続でプロジェクトがポシャっており、クローザーを自称していた。私はそれをマジにして、その時は殴ってやりたかったのを覚えている。 冷静に考えたら別に山城さんはなにも悪くないのだが、彼にはそういうところがあった。
+そのあと会社の時間で、山城さんと2人でエッチなツーショットサービスについて調査した。 後日、LTがあって本人がそのことを発表するときに私の名前を外していた。私がその前にVoIPの発表をやったあとだったので、名誉にかかわると思ったのだろう。山城さんの気遣いだった。
+それからしばらくして、私と山城さんは会社を辞めて、別々の会社に行ったのだった。
+最初に山城さんと会ってからちょうど一年くらいがったったとき、山城さんと2人で飲んだり、一緒にクルーザーに乗って花火見に行ったりとかもあった。
+クルーザーに乗ったときは、船がゆれて俺が椅子から転げ落ちそうになったところを、藤田さんが椅子を絶妙なタイミングで支えたのを見て、やさしー！とか山城さんが言ったので、それで私はイラッときた。こっちを心配しろや！
+2人で飲んだとき（いきなり私が昼過ぎにFBでメッセージを送ったのだ。山城さんとサシで飲んだことはなかったが、こういうのは断らないような気がした。）は、ミッドタウンで19時待ち合わせだったのだが、山城さんは歩いて向かっているとか19時ちょい前に連絡があって1時間くらい遅れてきた。山城さんは散歩するのが日課なんだという。 なんか安い店でいいんじゃね？と山城さんが言うので、地下の中華でビール飲んでた。転職後の会社であったこととか、これから稼いでいく話とかしてくれた。いざとなったらザリガニ釣ってやっていけるって言ってた。ザリガニ釣ってるところが容易に想像できた。メシを食い終わったときに、急にゴチになりますとか言うので、結局俺が払った。持ち合わせがないらしい。本当にクズだなと思ったし腹もたった。 その後、山城さん行きつけの店に行ってその後、赤坂のキャバに行った。どんどん店に入っていこうとする私を山城さんは警戒深く制止し、店の様子や女の子の状態などの確認をきっちりしていた。 山城さんは出世払いだと言っていたが、私はそれに対して数％くらいは本当に出世する可能性を感じていた。
+最後に山城さんに会ったのは11月の中旬ごろで、私が夏に貸した本3冊を返せとツイッターでリプったからだ。 六本木まで返しに来た。19時ごろ、ヒルサイドB2のオープンカフェで2人でビールを飲んだ。コロナを頼めばいいのに(ビンだから)、山城さんは紙コップに入ったビール飲んでた。結構、寒くなってきてた。 山城さんは仕事、順調そうだった。大分に行く気ないか？って言ってた。あんまり会話覚えてないけど、その時、俺って結局大企業向いてないんだろうなーって言ってた。 私はそれに対して、あんな会社で数年もうまいことやってたしそんなことないんじゃない？って言った。そうかな～って言ってた。一時間くらいで解散になった。
+12月の初旬、四日市さんが訃報を俺の席に伝えに来た。
+なんで山城さんが亡くなったのか、ふざけんなという気持ちもあるが、本当に残念です。 ご冥福を祈ります。</description>
     </item>
     
     <item>
-      <title>My First Post</title>
-      <link>https://adachic.github.io/posts/my-first-post/</link>
-      <pubDate>Wed, 26 Jul 2017 18:43:46 JST</pubDate>
+      <title>c84,東のレガリア３</title>
+      <link>https://adachic.github.io/2013/08/12/c84/</link>
+      <pubDate>Mon, 12 Aug 2013 00:00:00 +0000</pubDate>
       
-      <guid>https://adachic.github.io/posts/my-first-post/</guid>
-      <description>&lt;p&gt;Test&lt;/p&gt;
-</description>
+      <guid>https://adachic.github.io/2013/08/12/c84/</guid>
+      <description>コミックマーケット三日目、東へ20b。
+ 一番右が新刊。30ページ、300円。iOS Native開発の書。
+ サクッと読める！はじめてのObjective-C。
+ 簡単に読み解く！GCD実装。
+ Chocolately、バージョン管理 with Windows。
+  真ん中が既刊。68ページ、500円。Android Native開発の書。
+ DQ10、レベル上げbot開発。
+ Arduino、Android、ADK、OpenCVを使った方法です。
+  左が既刊(2刷目)。38ページ、200円。Android Native開発の書。
+ Android Native開発の書
+ イケメン人狼タウンの開発話。アプリ設計と開発。
+ ashmemと共有メモリを使ったプロセス間通信。
+   </description>
+    </item>
+    
+    <item>
+      <title>c83,東のレガリア２</title>
+      <link>https://adachic.github.io/2012/12/30/c83/</link>
+      <pubDate>Sun, 30 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://adachic.github.io/2012/12/30/c83/</guid>
+      <description>コミックマーケット三日目、東X26a。
+@50
+68ページ、900円。 今回は、ドラゴンクエストXの自動レベル上げについて記載しています。 Android,ADK,OpenCVを使った方法です。
+目次
+ ドラゴンクエストX自動レベル上げ Model Mキーボード修理記 Javaで作る手書きフォント Introduction to Modern #C RxJSでReactive Programming  下のは去年のやつ。こちらは完売したためもうない。 Androidのプロセス間通信や、ashmem(Androidの共有メモリ)の仕組み、Android版イケメン人狼について書いた。
+@30</description>
+    </item>
+    
+    <item>
+      <title>EM,GCDAsyncSocketでおかしやすい間違い</title>
+      <link>https://adachic.github.io/2012/08/24/em/</link>
+      <pubDate>Fri, 24 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://adachic.github.io/2012/08/24/em/</guid>
+      <description>EMやGCDAsyncSocketを使うと非同期ノンブロッキングのデータ通信が割りとお手軽にできるが、受信時のパケット長と状態について注意する必要がある。
+ GCDAsyncSocket  GCDAsyncSocketで注意したいのは、一つのGCDAsyncSocketは必ず一つの状態をもつということ。
+一例として、writeDataやreadDataは非同期処理のためハンドラが必要。デリゲート先にハンドラを書き、そのハンドラで次の状態にうつる。こうして、デリゲートをチェインしていくことで、状態を進めていくという使い方をする。
+TCPパケットの受信は、長さがわかっていれば、readToLengthで長さを指定すれば、受信ハンドラに遷移する。が、ここで注意しなければいけないのは、readToLengthに指定する長さが1バイトでも大きいと、ずっと待ちが続いてしまい、次の状態にうつらない。
+TCPパケットの長さを知るには、パケットの先頭にパケット長をつけるのが一般的だが、サーバも、正しくこれを実装し、きちんとデータを送信しなければいけない。
+RESTfulなhttpのようなプロトコルに慣れていると間違いをおかしやすい。 この方式の弱点は、異常が発生したときのリカバリ、状態を適切に遷移しなければ全くおかしな動きをするということ。
+たとえば、状態AからBに正しくうつるはずが、中途半端な長さのパケットしかこないからまだ状態Aになっている。サーバはもうBになったと思って続きのパケットを送ったら、もうおしまいである。
+それでも、回避策としてtimeoutをつけて、timeout時にサーバにtimeoutしたパケットを投げて、それぞれの状態の同期をとるか、チェックサムを入れるということが必要。
+真面目に開発するのであれば、 プロトコル・スタック設計としてステートマシンとかを書くものだと思う。
+ EM  EMのreceive_dataは、パケットを非同期ノンブロッキングで受信する。しかし、GCDAsyncSocketのように長さは指定できないため、やはりパケット内で長さを示す必要がある。
+一度の受信で得たパケットを、チャンクというらしい。チャンクの組立は、実装者に任されるという話だ。 http://htn.to/o9p748U
+例えば、先頭4バイトが長さということがわかっていれば、receive_dataで4バイトを読み、長さに達するまで、
+ def receive_data(data) if @@maxlen == 0 @@maxlen = @@buf[0..3].pack(&#39;V&#39;) end @@buf &amp;lt;&amp;lt; data if @@maxlen &amp;gt; @@buf.length return end #ここにくればチャンク組立が完了している  という感じで受信を続けていればOKだ。</description>
+    </item>
+    
+    <item>
+      <title>EM,messagePack,GCDAsyncSocket</title>
+      <link>https://adachic.github.io/2012/08/22/em/</link>
+      <pubDate>Wed, 22 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://adachic.github.io/2012/08/22/em/</guid>
+      <description>下の3つの組み合わせがかなり強力。 ASIHTTPRequestとか、JSONとか、いちいち使わなくていいんですね。楽。
+EM EventMachine。 Rubyのライブラリで非同期I/O。 EM:channelのsubscribeを書くことで、channnelへのpush時に、コールバックが動作する。 あるクライアントから受信したデータをブロードキャストすることに向いている。
+http://eventmachine.rubyforge.org/EventMachine.html
+messagePack シリアライズ用ライブラリ。JSONの代替として有効というか、JSONより効率もいいし楽。多くの言語に対応している。
+GCDAsyncSocket CFStreamのラッパー、お手軽にTCP,UDP通信できる。デリゲートで送受信を書く。 socketをシングルトンにして持ち回すのがいいんじゃないだろうか。
+https://github.com/robbiehanson/CocoaAsyncSocket/blob/master/GCD/GCDAsyncSocket.m ソースは普通にでかい。仕組み理解には、気合いいる。 中身のNSStreamがシングルトンだそうで、結局謎。わりと普通になじめた感ある。</description>
+    </item>
+    
+    <item>
+      <title>課題とか人狼とか</title>
+      <link>https://adachic.github.io/2012/08/22/ke-ti/</link>
+      <pubDate>Wed, 22 Aug 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://adachic.github.io/2012/08/22/ke-ti/</guid>
+      <description>はてなからOctopressに移っていく人が多いそうな。github pages、ちょっとした郊外感ある。とはいえ、botには拾われるし同じですが。
+最近、また懲りずに人狼作っている。人狼は3作目になるので、githubにはIJT3という名前でリポジトリ公開してる。リポジトリにあるijt2はAndroidマーケットに出したやつだ。IJT3は、iPhoneで動作する予定だ。C83のネタ用でもある。
+gamekitで通信して普通に遊べるやつを作っているが、そうそう都合よく世の中全員がiPhone持ってるとも限らないわけで、うまいことAndroidなんかと相互に16人くらいが通信できたら幸せなのになぁと思うわけですが&amp;hellip;
+C83のために、気になっている課題としては、libdispatchについてだな..GCDとBlock覚えてから、Cプログラミングが楽しくなった。</description>
     </item>
     
   </channel>
