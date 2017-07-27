@@ -3,7 +3,7 @@
   <channel>
       <title>Posts on 東のレガリア </title>
       <generator uri="https://gohugo.io">Hugo</generator>
-    <link>http://adachic.github.io/posts/</link>
+    <link>https://adachic.github.io/posts/</link>
     <language>en-us</language>
     
     
@@ -11,10 +11,10 @@
     
     <item>
       <title>My First Post</title>
-      <link>http://adachic.github.io/posts/my-first-post/</link>
+      <link>https://adachic.github.io/posts/my-first-post/</link>
       <pubDate>Wed, 26 Jul 2017 18:43:46 JST</pubDate>
       
-      <guid>http://adachic.github.io/posts/my-first-post/</guid>
+      <guid>https://adachic.github.io/posts/my-first-post/</guid>
       <description>&lt;p&gt;Test&lt;/p&gt;
 </description>
     </item>
