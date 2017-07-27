@@ -9,6 +9,8 @@ url: /2012/08/22/em/
 下の3つの組み合わせがかなり強力。
 ASIHTTPRequestとか、JSONとか、いちいち使わなくていいんですね。楽。
 
+<!--more-->
+
 # EM
 EventMachine。
 Rubyのライブラリで非同期I/O。

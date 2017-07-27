@@ -10,6 +10,8 @@ url: /2013/08/12/c84/
 
 ![alt text](../../../../images/DSC_0478.jpg)
 
+<!--more-->
+
 * 一番右が新刊。30ページ、300円。iOS Native開発の書。
 
     * サクッと読める！はじめてのObjective-C。
