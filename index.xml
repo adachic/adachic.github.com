@@ -6,10 +6,20 @@
     <description>Recent content on 東のレガリア</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sun, 16 Feb 2014 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jul 2017 18:30:13 +0900</lastBuildDate>
     
 	<atom:link href="https://adachic.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hugoに移行</title>
+      <link>https://adachic.github.io/post/hugo/</link>
+      <pubDate>Thu, 27 Jul 2017 18:30:13 +0900</pubDate>
+      
+      <guid>https://adachic.github.io/post/hugo/</guid>
+      <description>&lt;p&gt;もう3年以上放置されてるこのブログですが、Hugoに移行しました。そろそろ何か書くか。
+&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>ある夏の日</title>
@@ -19,10 +29,7 @@
       <guid>https://adachic.github.io/2014/02/16/aruxia-falseri/</guid>
       <description>&lt;p&gt;ある夏の日、山城さんが隣の席に引っ越してきた。騒がしかったので覚えている。
 あっという間に、山城さんの私物の書籍とか箱とか本棚とかぬいぐるみがあたり一帯を占拠していて非常に狭くなった。
-山城さんは体格が非常に大きく、さらにその後ろに座っている加藤さんの体格も同じくらい大きいので、もはや、私の左側は簡単に通行できなくなった。
-山城さんの席の机は、一見、雑然としているが、ミクのフィギュアがおいてあって、座ったらパンチラがちょうど見える角度になっていた。そこだけ計算されたかのようだった。&lt;/p&gt;
-
-&lt;p&gt;&lt;/p&gt;</description>
+&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -32,8 +39,6 @@
       
       <guid>https://adachic.github.io/2013/08/12/c84/</guid>
       <description>&lt;p&gt;コミックマーケット三日目、東へ20b。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;../images/DSC_0478.jpg&#34; alt=&#34;alt text&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;/p&gt;</description>
     </item>
