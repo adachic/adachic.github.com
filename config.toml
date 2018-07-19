@@ -3,9 +3,9 @@ languageCode = "ja"
 title = "東のレガリア"
 theme = "vienna"
 canonifyurls = true
-googleAnalytics = "UA-53227080-3"
+publishdir = "public"
 [params]
-  Subtitle = "必要なことをやっていく"
-  AuthorName = "Akinori ADACHI"
-  GitHubUser = "adachic"
-  SidebarRecentLimit = 5
+  subtitle = "必要なことをやっていく"
+  github = "adachic"
+  twitter = "adachi_c"
+  ga_api_key = "UA-53227080-3"
