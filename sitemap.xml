@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://adachic.github.io/post/sustain/</loc>
+    <lastmod>2021-03-30T12:29:51+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://adachic.github.io/post/lci/</loc>
     <lastmod>2021-03-29T11:47:57+09:00</lastmod>
   </url>
@@ -60,7 +65,7 @@
   
   <url>
     <loc>https://adachic.github.io/post/</loc>
-    <lastmod>2021-03-29T11:47:57+09:00</lastmod>
+    <lastmod>2021-03-30T12:29:51+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -78,7 +83,7 @@
   
   <url>
     <loc>https://adachic.github.io/</loc>
-    <lastmod>2021-03-29T11:47:57+09:00</lastmod>
+    <lastmod>2021-03-30T12:29:51+09:00</lastmod>
     <priority>0</priority>
   </url>
   
